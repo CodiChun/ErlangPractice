@@ -1,0 +1,2 @@
+# ErlangPractice
+Practice using Erlang
