@@ -1,4 +1,4 @@
--module(lab01).
+-module(basic).
 -export([myTan/1, isSame/2, parity/1, mealType/1, myMult/2, mySum/1, mySeries/3]).
 -import(math,[sin/1, sqrt/1, pow/2]).
 
